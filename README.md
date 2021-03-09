@@ -19,13 +19,13 @@ Yolo: The yolov3 (you look only once) is one of the faster algorithms for object
 ## project result
 
 ### mask not found
-[img1]()
+![img1](https://github.com/vishalbpatil1/mask-detection-yolov3/blob/main/img1.png)
 
 ### mask found
-[img2]()
+![img2](https://github.com/vishalbpatil1/mask-detection-yolov3/blob/main/img3.png)
 
 ### Mask_cover_50%
-[img3]()
+![img3](https://github.com/vishalbpatil1/mask-detection-yolov3/blob/main/img2.png)
 
 
 ### Use cases:-
