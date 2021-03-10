@@ -17,6 +17,7 @@ Yolo: The yolov3 (you look only once) is one of the faster algorithms for object
 
 
 ## project result
+[linkedin post](https://www.linkedin.com/posts/vishal-patil-b6a3a0195_artificialintelligence-security-india-activity-6713762928736133120-6xtJ)
 
 ### mask not found
 ![img1](https://github.com/vishalbpatil1/mask-detection-yolov3/blob/main/%E2%80%ABimg1.png)
